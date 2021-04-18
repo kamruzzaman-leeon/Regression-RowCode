@@ -1,0 +1,16 @@
+Dataset,No of Iteration,Learning Rate,Squared Error
+Fish.csv,30,0.170223124,2.12E+291
+Fish.csv,10,0.149106084,2.12E+94
+Fish.csv,15,0.198978855,1.78E+146
+Fish.csv,20,0.213027129,1.11E+197
+Fish.csv,25,0.114982142,1.43E+234
+Fish.csv,35,0.134257556,inf
+Fish.csv,1000,0.202315905,nan
+Insurance.csv,5,0.105370094,4.57E+55
+Insurance.csv,10,0.11532541,1.14E+112
+Insurance.csv,15,0.170096681,7.35E+172
+Insurance.csv,20,0.190473475,3.20E+232
+Insurance.csv,30,0.188579528,inf
+Insurance.csv,35,0.230607812,inf
+Insurance.csv,45,0.144961107,inf
+Insurance.csv,50,0.190942191,inf
